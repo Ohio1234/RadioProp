@@ -1,8 +1,8 @@
 fx_version 'adamant'
 games {'gta5'}
 
-author 'Radirop - Lavet af tubidubs#2495'
-description 'Radio prop der viser når du trykker LALT - Lavet af tubidubs#2495'
+author 'Radirop - ikke lavet af mig'
+description 'Radio prop der viser når du trykker LALT - ikke lavet af mig'
 version '2.0'
 
 
